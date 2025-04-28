@@ -4,7 +4,7 @@ const closeBtn = document.querySelector('.close-btn');
 const popupMessage = document.getElementById('popup-message');
 
 // তোমার Google Apps Script URL
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwHsqUTAcKj_bkXZOXAlogbIi3Y-5rkGzqcQ_E1CVw_LEvTh_AkzdTW4Dtti3dCbf8/exec'; // এখানে তোমার নিজের Apps Script URL বসাবে
+const scriptURL = 'https://script.google.com/macros/s/AKfycbxR4WzVVvqWzgWiq-OZXI-bTwCQPmgsTnl_SBqJp3qlxnD6fy04oM6o_pTl2Z_CeMRVJQ/exec'; // এখানে তোমার নিজের Apps Script URL বসাবে
 
 // তোমার Adsterra Direct Link
 const adLink = 'https://www.profitableratecpm.com/t68r3nih?key=13142b6bf3f8d8f81e3d58e001e47a75'; // এখানে তোমার Adsterra Direct Link বসাবে
